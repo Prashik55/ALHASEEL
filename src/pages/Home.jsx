@@ -45,8 +45,8 @@ export default function Home({ onOpenSpec }) {
           {/* Metric Strip */}
           <div className="metrics-strip">
             <div className="metric-item">
-              <span className="metric-val">30+</span>
-              <span className="metric-lbl">Years Experience</span>
+              <span className="metric-val">2019</span>
+              <span className="metric-lbl">Established in Dubai</span>
             </div>
             <div className="metric-item">
               <span className="metric-val">80+</span>
@@ -57,8 +57,8 @@ export default function Home({ onOpenSpec }) {
               <span className="metric-lbl">Direct Mill Sourced</span>
             </div>
             <div className="metric-item">
-              <span className="metric-val">Dubai</span>
-              <span className="metric-lbl">Express Delivery</span>
+              <span className="metric-val">Warehouse 11</span>
+              <span className="metric-lbl">Al Khawaneej 2 Hub</span>
             </div>
           </div>
         </div>
@@ -93,12 +93,12 @@ export default function Home({ onOpenSpec }) {
           <div className="about-split">
             <div className="about-text">
               <span className="section-label">About Karawan Al Aseel</span>
-              <h2 className="section-h2" style={{ marginBottom: '20px' }}>Direct Supply. Decades of Expertise.</h2>
+              <h2 className="section-h2" style={{ marginBottom: '20px' }}>Direct Supply. Premium Quality.</h2>
               <p>
-                Founded in 2019 in Dubai, <strong>Karawan Al Aseel Foodstuff Trading LLC</strong> is spearheaded by specialists with more than 30 years of hands-on expertise in the food commodity and wholesale supply trade.
+                Founded in 2019 in Dubai, <strong>Karawan Al Aseel Foodstuff Trading LLC</strong> is dedicated to closing the gap between agricultural sources and commercial buyers, delivering premium Flour, Maida, and Semolina efficiently and cost-effectively.
               </p>
               <p>
-                We operate from Warehouse No. 11, Al Khawaneej 2, supporting more than 80 restaurants, industrial bakeries, and retail grocers across Dubai and the UAE with consistent grain performance and dependable delivery.
+                Operating from Warehouse No. 11, Al Khawaneej 2, we proudly serve more than 80 restaurants, supermarkets, and distributors across the UAE with consistent quality and dependable wholesale delivery.
               </p>
 
               <div className="hero-btns" style={{ marginTop: '28px' }}>

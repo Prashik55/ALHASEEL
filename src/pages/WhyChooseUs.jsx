@@ -75,9 +75,9 @@ export default function WhyChooseUs() {
 
             <div className="advantage-card">
               <span className="advantage-num">06</span>
-              <h3 className="advantage-title">30+ Years Leadership Support</h3>
+              <h3 className="advantage-title">Dedicated B2B Customer Support</h3>
               <p className="advantage-text">
-                Benefit from direct access to industry experts who understand commercial baking chemistry, high-tandoor tolerances, and large-scale catering demands.
+                Benefit from direct account representatives who understand commercial kitchen requirements, bulk order scheduling, and reliable wholesale delivery timelines.
               </p>
             </div>
           </div>

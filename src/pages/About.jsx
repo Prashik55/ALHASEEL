@@ -12,7 +12,7 @@ export default function About() {
             <span>/</span>
             <span>About Us</span>
           </div>
-          <h1 className="page-title">Direct Sourcing. Decades of Wholesale Mastery.</h1>
+          <h1 className="page-title">Direct Sourcing. Premium Wholesale Quality.</h1>
           <p className="page-subtitle">
             Founded in Dubai in 2019, Karawan Al Aseel bridges the gap between global agricultural mills and commercial food operators across the United Arab Emirates.
           </p>
@@ -24,16 +24,16 @@ export default function About() {
         <div className="container">
           <div className="about-split">
             <div className="about-text">
-              <span className="section-label">Our Heritage</span>
-              <h2 className="section-h2" style={{ marginBottom: '20px' }}>Built by Food Industry Veterans</h2>
+              <span className="section-label">Our Heritage &amp; Mission</span>
+              <h2 className="section-h2" style={{ marginBottom: '20px' }}>Bridging the Source &amp; Buyer</h2>
               <p>
-                While Karawan Al Aseel Foodstuff Trading LLC was formally established in 2019, our leadership team brings more than <strong>30 cumulative years</strong> of dedicated food supply chain experience across the Middle East.
+                Founded in 2019 in Dubai, <strong>Karawan Al Aseel Foodstuff Trading LLC</strong> was established with a clear mission: to close the existing gap between buyers and primary agricultural sources, ensuring UAE food operators receive the highest quality Flour, Maida, and Semolina at competitive wholesale prices.
               </p>
               <p>
-                Having observed traditional supply models burdened with cascading brokers and unnecessary distribution layers, we set out to build a streamlined, transparent model: <strong>connecting commercial food producers directly with premier milling sources</strong>.
+                By sourcing directly from certified milling plants and managing our dedicated storage and dispatch from Warehouse No. 11, Al Khawaneej 2, we eliminate intermediary broker markups.
               </p>
               <p>
-                This direct model ensures our B2B partners — from neighborhood bakeries to large supermarket distributors — receive the highest grade grains with guaranteed freshness, verifiable laboratory parameters, and significant savings on their landed costs.
+                Today, we proudly serve more than 80 commercial restaurants, industrial bakeries, and regional supermarket distributors across the United Arab Emirates with consistent grain purity, reliable packaging, and dependable delivery schedules.
               </p>
 
               <div className="about-pillars">
