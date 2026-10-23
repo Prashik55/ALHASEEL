@@ -77,7 +77,7 @@ export default function WhyChooseUs() {
               <span className="advantage-num">06</span>
               <h3 className="advantage-title">Dedicated B2B Customer Support</h3>
               <p className="advantage-text">
-                Benefit from direct account representatives who understand commercial kitchen requirements, bulk order scheduling, and reliable wholesale delivery timelines.
+                Benefit from direct account representatives who understand commercial kitchen requirements, bulk delivery scheduling, and reliable wholesale delivery timelines.
               </p>
             </div>
           </div>

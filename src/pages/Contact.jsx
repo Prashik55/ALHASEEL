@@ -18,7 +18,7 @@ export default function Contact({ onShowToast }) {
           </div>
           <h1 className="page-title">Commercial Desk &amp; Dubai Warehouse</h1>
           <p className="page-subtitle">
-            Connect with our wholesale specialists for bulk order quotations, sample consignments, or contract agreements.
+            Connect with our wholesale specialists for wholesale supply quotations, sample consignments, or contract agreements.
           </p>
         </div>
       </section>

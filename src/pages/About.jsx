@@ -64,12 +64,13 @@ export default function About() {
           borderRadius: 'var(--radius-md)',
           overflow: 'hidden',
           border: '1px solid var(--border-light)',
-          height: '200px'
+          minHeight: '220px',
+          aspectRatio: '16/6'
         }}>
           <img 
             src="/assets/images/slogan-banner.jpg" 
-            alt="Treat yourself to healthier cooking banner" 
-            style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+            alt="Karawan Al Aseel Foodstuff Trading LLC - Treat yourself to healthier cooking" 
+            style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center left' }}
           />
         </div>
       </div>

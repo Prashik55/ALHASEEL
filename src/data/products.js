@@ -5,7 +5,7 @@ export const products = [
     category: 'flour',
     categoryLabel: 'Whole Wheat',
     brand: 'Karawan Al Aseel Core Series',
-    image: '/assets/images/flour-products-trio.jpg',
+    image: null, // Product image to be added later
     description: '100% stone-ground flour retaining natural bran and germ. Exceptional water absorption for softer, long-lasting rotis and chapatis.',
     specsSummary: [
       { label: 'Protein', value: '12.2%' },
@@ -28,7 +28,7 @@ export const products = [
     category: 'maida',
     categoryLabel: 'Refined Maida',
     brand: "Chef's Flour Special",
-    image: '/assets/images/flour-products-trio.jpg',
+    image: null, // Product image to be added later
     description: 'Silky fine milled wheat flour with balanced gluten elasticity. Formulated for bakeries, pizza bases, samosa pastry sheets, and naan.',
     specsSummary: [
       { label: 'Ash', value: 'Max 0.52%' },
@@ -51,7 +51,7 @@ export const products = [
     category: 'semolina',
     categoryLabel: 'Semolina (Suji)',
     brand: 'Karawan Al Aseel Harvest',
-    image: '/assets/images/flour-products-trio.jpg',
+    image: null, // Product image to be added later
     description: 'Evenly milled coarse golden semolina made from durum wheat. High tensile strength for pasta, basbousa, halwa, and artisan doughs.',
     specsSummary: [
       { label: 'Protein', value: '13.0%' },
@@ -74,7 +74,7 @@ export const products = [
     category: 'brands',
     categoryLabel: 'Commercial Brand',
     brand: 'Pak Chef Premium',
-    image: '/assets/images/culinary-dishes.jpg',
+    image: null, // Product image to be added later
     description: 'The leading choice among UAE restaurants and caterers. Engineered for high yield per bag and prolonged warmth retention.',
     specsSummary: [
       { label: 'Yield', value: 'Commercial High' },
@@ -97,7 +97,7 @@ export const products = [
     category: 'brands',
     categoryLabel: 'Specialty Blend',
     brand: 'Pak Chef Paratha',
-    image: '/assets/images/culinary-dishes.jpg',
+    image: null, // Product image to be added later
     description: 'Custom-milled blend for flaky, multi-layered parathas, Malabar parottas, and puris. Ensures crispy crusts with soft, tender layers.',
     specsSummary: [
       { label: 'Gluten Matrix', value: 'Elastic Stretch' },
@@ -120,7 +120,7 @@ export const products = [
     category: 'brands',
     categoryLabel: 'Bakery Grade',
     brand: "Chef's Flour",
-    image: '/assets/images/hero-bakery-marble.jpg',
+    image: null, // Product image to be added later
     description: 'Premium baker-grade flour tailored for industrial ovens, artisanal sourdough loaves, French baguettes, and fine patisserie.',
     specsSummary: [
       { label: 'Protein', value: '13.5%' },

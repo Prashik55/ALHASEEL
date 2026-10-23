@@ -6,7 +6,7 @@ export default function Header() {
     <header className="site-header">
       <div className="container nav-wrap">
         <Link to="/" className="brand-group">
-          <div className="brand-monogram">KA</div>
+          <img src="/assets/images/karawan-logo-emblem.png" alt="Karawan Al Aseel Logo" className="brand-logo-img" />
           <div className="brand-title">
             <span className="brand-name">Karawan Al Aseel</span>
             <span className="brand-tagline">كروان الأصيل لتجارة المواد الغذائية</span>

@@ -33,7 +33,7 @@ export default function QuickRfqForm({ initialProduct = '', onShowToast }) {
       `• Business Email: ${formData.email}\n` +
       `• Product: ${formData.product}\n` +
       `• Destination: ${formData.emirate}, UAE\n` +
-      `• Order Details: ${formData.message || 'Standard wholesale consignment request'}`
+      `• Requirement Details: ${formData.message || 'Standard wholesale consignment request'}`
     );
 
     if (onShowToast) {
